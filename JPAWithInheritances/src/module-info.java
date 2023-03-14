@@ -6,4 +6,5 @@
  *
  */
 module JPAWithInheritances {
+	requires java.persistence;
 }
